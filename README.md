@@ -17,3 +17,7 @@ Usage
 Before running, it needs:
 * A two-class classification dataset
 * A (DNN) classifier model trained on the given dataset; its outputs are in \[0, 1]
+
+Detailed explainations are in the codes' comments.
+
+Output in `global_DBCs.txt` or `local_DBCs.txt`.

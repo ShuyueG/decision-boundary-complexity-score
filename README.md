@@ -6,7 +6,7 @@ These codes include adversarial sets generation and computations of global DBC a
 
 Related paper
 ======
-Analysis of Generalizability of Deep Neural Networks Based on the Complexity of Decision Boundary
+### Analysis of Generalizability of Deep Neural Networks Based on the Complexity of Decision Boundary
 
 `In press` International Conference on Machine Learning and Applications (ICMLA), 2020
 

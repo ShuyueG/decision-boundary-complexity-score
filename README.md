@@ -8,8 +8,8 @@ Related paper
 ======
 ### Analysis of Generalizability of Deep Neural Networks Based on the Complexity of Decision Boundary
 
-`In press` International Conference on Machine Learning and Applications (ICMLA), 2020
-
+International Conference on Machine Learning and Applications (ICMLA), 2020
+https://doi.org/10.1109/ICMLA51294.2020.00025
 https://arxiv.org/abs/2009.07974
 
 Usage

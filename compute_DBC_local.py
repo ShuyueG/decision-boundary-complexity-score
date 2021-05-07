@@ -7,7 +7,7 @@ Dataset:            Any two-class classification dataset, e.g. cat and dog datas
 Model:              A trained classifier; its outputs are in [0, 1]
 
 Related paper:      Analysis of Generalizability of Deep Neural Networks Based on the Complexity of Decision Boundary
-                    [In press] International Conference on Machine Learning and Applications (ICMLA), 2020
+                    International Conference on Machine Learning and Applications (ICMLA), 2020
                     https://arxiv.org/abs/2009.07974
 
 By:                 Shuyue Guan
